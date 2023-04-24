@@ -21,6 +21,8 @@ list_of_files = [
     f"src/{PROJECT_NAME}/pipeline/__init__.py",
     f"src/{PROJECT_NAME}/entity/__init__.py",
     f"src/{PROJECT_NAME}/constants/__init__.py",
+    f"src/{PROJECT_NAME}/logger/__init__.py",
+    f"src/{PROJECT_NAME}/exception/__init__.py",
     "config/config.yaml",
     "params.yaml",
     "requirements.txt",

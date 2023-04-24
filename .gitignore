@@ -163,3 +163,4 @@ cython_debug/
 .dogbreed/
 logs
 test.py
+model_testing/*
